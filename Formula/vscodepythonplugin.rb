@@ -1,4 +1,4 @@
-class Loadpyplugins < Formula
+class Vscodepythonplugin < Formula
     desc "Loads Visual Studio Code plugins for Python 3.11"
     homepage "https://github.com/usrsrcdev"
     url "https://github.com/usrsrcdev/vscodepythonplugin/releases/download/v1.13/loadpyplugins-1.13.tar.gz"
